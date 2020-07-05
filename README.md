@@ -1,7 +1,7 @@
 # Image-Classification-DL-TPU
 Image Classification Kaggle Competition
 
-This notebook is designed for Kaggle environments. It runs on TPU and imports the data from Google Cloud Storage.
+#### This notebook is designed for Kaggle environments. It runs on TPU and imports the data from Google Cloud Storage.
     • Ensembled EfficientNetB7, EfficientNetB6, EfficientNetB5, EfficientNetB4 
     • Fine Tuning 
     • Data augmentation using Blockout 
