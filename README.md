@@ -6,6 +6,6 @@ Image Classification Kaggle Competition
     • Fine Tuning 
     • Data augmentation using Blockout 
 You can run it localy on GPU or even CPU (which probably takes a LONG time!) with making a few changes.
-_ Download the data from Kaggle:
+###### Download the data from Kaggle:
 - https://www.kaggle.com/c/flower-classification-with-tpus/data 
 - https://www.kaggle.com/kirillblinov/tf-flower-photo-tfrec 
